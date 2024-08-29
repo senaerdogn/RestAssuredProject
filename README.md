@@ -7,7 +7,7 @@ Bu projeyi çalıştırabilmek için aşağıdaki gereksinimlere sahip olmanız 
 - Java Development Kit (JDK) 11
 - Maven
 - Selenium WebDriver
-- TestNG
+- JUnit
 
 **Testin Çalıştırılması**
 
