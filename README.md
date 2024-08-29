@@ -6,7 +6,6 @@ Bu proje, JSONPlaceholder sitesindeki /posts endpoint'ini kullanarak çeşitli t
 Bu projeyi çalıştırabilmek için aşağıdaki gereksinimlere sahip olmanız gerekmektedir: 
 - Java Development Kit (JDK) 11
 - Maven
-- Selenium WebDriver
 - JUnit
 
 **Testin Çalıştırılması**
