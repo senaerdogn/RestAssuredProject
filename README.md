@@ -2,7 +2,12 @@
 Bu proje, JSONPlaceholder sitesindeki /posts endpoint'ini kullanarak çeşitli test senaryolarını gerçekleştirmek için oluşturulmuştur. Testler, RestAssured kütüphanesi kullanılarak gerçekleştirilmiştir.
 
 **Gereksinimler** 
-Bu projeyi çalıştırabilmek için aşağıdaki gereksinimlere sahip olmanız gerekmektedir: Java Development Kit (JDK) 11, Maven, Selenium WebDriver, TestNG
+
+Bu projeyi çalıştırabilmek için aşağıdaki gereksinimlere sahip olmanız gerekmektedir: 
+- Java Development Kit (JDK) 11
+- Maven
+- Selenium WebDriver
+- TestNG
 
 **Testin Çalıştırılması**
 
